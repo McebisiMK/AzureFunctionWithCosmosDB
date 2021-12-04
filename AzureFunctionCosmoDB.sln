@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionCosmoDB", "AzureFunctionCosmoDB\AzureFunctionCosmoDB.csproj", "{DAF6EFDD-C908-48C1-A869-0461C34D95F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionCosmosDB.Data", "AzureFunctionCosmosDB.Data\AzureFunctionCosmosDB.Data.csproj", "{133B07DC-543D-4B0E-9ED1-20311884D9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477DDCF3-F31C-4B10-A976-5583AA2BF362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477DDCF3-F31C-4B10-A976-5583AA2BF362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477DDCF3-F31C-4B10-A976-5583AA2BF362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477DDCF3-F31C-4B10-A976-5583AA2BF362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588A7990-6CEE-4A65-BC5C-76BA85C9B876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588A7990-6CEE-4A65-BC5C-76BA85C9B876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588A7990-6CEE-4A65-BC5C-76BA85C9B876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588A7990-6CEE-4A65-BC5C-76BA85C9B876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF6EFDD-C908-48C1-A869-0461C34D95F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF6EFDD-C908-48C1-A869-0461C34D95F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF6EFDD-C908-48C1-A869-0461C34D95F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF6EFDD-C908-48C1-A869-0461C34D95F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133B07DC-543D-4B0E-9ED1-20311884D9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133B07DC-543D-4B0E-9ED1-20311884D9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133B07DC-543D-4B0E-9ED1-20311884D9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133B07DC-543D-4B0E-9ED1-20311884D9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5615A3-6E5E-49A2-97A9-4FAB51028635}
+	EndGlobalSection
+EndGlobal
